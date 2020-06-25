@@ -1,0 +1,6 @@
+Barraza Santiago - Mamani Luis - Monges Leo
+
+A.- Solo con el Readme y datos.txt
+B.- Si
+C.- Si, si se les pushea en su origin correspondiente
+D.- Hubo conflicto en el merge con los cambios realizados 
